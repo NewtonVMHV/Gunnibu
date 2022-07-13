@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.proyectofinal">
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".VideoMenu" />
+        <activity android:name=".View_galaxias" />
+        <activity android:name=".View_satelites" />
+        <activity android:name=".View_planetas" />
+        <activity android:name=".GameShowScores" />
+        <activity android:name=".GameActivity" />
+        <activity android:name=".GamePosPlaneta" />
+        <activity android:name=".GameQueGalaxia" />
+        <activity android:name=".GameFasesLuna" />
+        <activity android:name=".GamePlaneta" />
+        <activity android:name=".Game_mainMenu" />
+        <activity android:name=".ViewGral" />
+        <activity android:name=".MainActivity"/>
+    </application>
+
+</manifest>

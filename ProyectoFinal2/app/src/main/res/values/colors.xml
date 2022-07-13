@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2E0048</color>
+    <color name="primary_dark">#250438</color>
+    <color name="primary_light">#b388ff</color>
+    <color name="accent">#FF4081</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="deepPurple">#2E0048</color>
+    <color name="Focussedbutton1">#9C27B0</color>
+    <color name="ColorText">#ffffff</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#727272</color>
+    <color name="tabsScrollColor">#BDBDBD</color>
+    <color name="colorPrimary">#03A9F4</color>
+</resources>
